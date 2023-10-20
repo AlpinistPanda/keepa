@@ -1,0 +1,1 @@
+KEEPA_API_KEY = 'fnqu64foantbhego4e2t9shfgfbaktbv7aod8jlapbatjubnkur262379kmlv6sv'
